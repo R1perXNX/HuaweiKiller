@@ -14,7 +14,7 @@ My team and I discovered this vulnerability in January 2025 using symbolic execu
 Although an official patch exists, this driver can still be leveraged in a BYOVD  attack, as it is not blocked by the Windows Driver Blacklist at the time of writing (Tested on both Windows 10 and Windows 11).
 
 ## Credits
-Thanks to @mnznndr97[https://github.com/mnznndr97] and @enkomio[https://github.com/enkomio] for giving me the opportunity to work with them.
+Thanks to [@mnznndr97](https://github.com/mnznndr97) and [@enkomio](https://github.com/enkomio) for giving me the opportunity to work with them.
  
 
 
